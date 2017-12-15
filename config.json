@@ -6,5 +6,5 @@
   "remote_port": 80,
   "password": "onplus",
   "timeout": 600,
-  "method": "aes-256-cfb"
+  "method": "aes-128-cfb"
 }
